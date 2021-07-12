@@ -1,0 +1,3 @@
+<?= (!empty($mainModule) && $mainModule=='category')? 'menu-open' : '';?>
+<?= (!empty($mainModule) && $mainModule=='category' && !empty($subModule) && $subModule=='addCategory')? 'active' : '';?>
+<?= (!empty($mainModule) && $mainModule=='category' && !empty($subModule) && $subModule=='viewCategory')? 'active' : '';?>

@@ -1,0 +1,47 @@
+.themer {
+    background-image: url(../images/theme.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div .col-md-9 {
+    background-color: 	#FFFAFA;
+}
+div #detailid {
+    background-color: 	#FFFAFA;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #000;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-transform: uppercase;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.carousel-item{
+    height: 500px;
+    
+}
+.card-image{
+    width: 243px;
+    height: 142px;
+}
+a{
+    color: #505050;
+}
+.contact{
+    background-image: url(../images/bg-image.jpg) !important;
+    height: 100%; 
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p.invalid-feedback {
+    display: block;
+}
